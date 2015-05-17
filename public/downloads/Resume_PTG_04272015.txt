@@ -1,0 +1,23 @@
+
+
+
+
+
+Philip GeLinasSummary
+
+An extremely driven test automation engineer with a diverse set of web development skills. Over ten years of experience developing web based solutions including multiple MVC intranet web applications. Proven ability to solve complex problems, acquire technical skills and knowledge rapidly, and deliver results demonstrated leadership in design and development of innovative solutions. Seeking a position where these skills, knowledge, and abilities will add value.
+SkillsPlatformsWindows, Linux, OS X, AndroidLanguagesJava, Python, Scala, Ruby, JavaScript, CoffeeScript, JQuery, HTML 5, CSS3, SASS, TCL, AWK, SED, Jade, MustacheRDBMS/noSQL/ORBMySQL, PostgreSQL, SQLite3/mongoDB, Cassandra/FrameworksBootstrap, Rails 4, Ember.js, Junit4, Node.js, JQueryUI, Cucumber, RSpec, Capybura, SpringWeb ServersTomcat, Apache HTTPMethodologiesAgile/Scrum, TDD, BDD, RUPTechnologiesSelenium 2 Webdriver / Selenium Grid, JUnit, Log4j, Ajax, JSON, XML, YAML, HAML, JAXB, JAX-RS, Web Services, REST, SOAP, RegEx, Solr, Lucene, Memcached, RedisCloudGoogle App Engine, Amazon Web Services, HerokuMachine LearningNatural Language Processing, Neuro NetworksDev ToolsEclipse, NetBeans, Maven, Ant, Gradle, Jenkins/Hudson, VIM, RubyMine, PyCharm, Komodo, Sublime Text, Notepad++, Photoshop, Illustrator, Dreamweaver, JIRA, Framemaker, RoboHelp, JavaDoc, Toad, Curl, Putty, Cygwin, VMWare, Tmux, Camtasia Studio, AudacityVersion ControlGit, GitHub, BitBucket, SVN
+Experience
+Senior QA Automation Engineer, Cisco, (Ramstadt)
+Deployed Selenium Grid to a large multi-platform VM environment, and integrated it into a complex build and reporting infrastructure that supports a mission-critical streaming media provisioning system used by emergency responders. Trained several dev teams to develop automated functional tests for their user stories.
+Senior Programmer-Writer, Atigeo, LLC 2010 – 2014
+automated tests in Java using Selenium. ead lead testing  Atigeo’s cloud-based, Big Data analytics platform.  Developed
+Senior Programmer-Writer, MediaNet 2004-2007
+Wrote developer documentation and API reference guides in an Agile environment.
+EducationMaster’s in Science Education (Physics),  Eastern Washington University, Cheney, WABAE (Natural Science / Mathematics) EWU, Cheney,WA 1996-1997  1991-1995
+
+
+              425.686.0661
+phil.t.gelinas@gmail.com
+
+
